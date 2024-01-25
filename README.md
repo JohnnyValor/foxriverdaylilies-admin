@@ -9,6 +9,7 @@ This site was built for a client who wanted a clean, intuitive, easy to use and 
 ```bash
 Next.js
 React
+Typescript
 Tailwind
 Prisma
 MySQL
